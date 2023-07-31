@@ -16,9 +16,9 @@ PAGE_TITLE = "Digital CV | Manish Krishna Ramakrishnan"
 PAGE_ICON = ":wave:"
 NAME = "Manish Krishna Ramakrishnan"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+DevOps Engineer.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "manizkrish96@gmail.com"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://linkedin.com",
     "GitHub": "https://github.com",
@@ -128,9 +128,3 @@ st.write(
 )
 
 
-# --- Projects & Accomplishments ---
-st.write('\n')
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
