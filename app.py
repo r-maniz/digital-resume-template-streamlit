@@ -12,24 +12,17 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Manish Krishna Ramakrishnan"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Manish Krishna Ramakrishnan"
 DESCRIPTION = """
 Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
 """
 EMAIL = "johndoe@email.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
     "GitHub": "https://github.com",
     "Twitter": "https://twitter.com",
-}
-PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
 
 
@@ -73,8 +66,8 @@ st.write('\n')
 st.subheader("Experience & Qulifications")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
+- ✔️ 3.5 Years experience in creating cloud infrastructure and deploying on web
+- ✔️ Strong hands on experience in Aws Service and DevOps Tools
 - ✔️ Good understanding of statistical principles and their respective applications
 - ✔️ Excellent team-player and displaying strong sense of initiative on tasks
 """
@@ -86,10 +79,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- 👩‍💻 Aws Services: EC2, S3, VPC, IAM, RDS, ELB, AUTO SCALING, CLOUDFRONT, CLOUDWATCH, SQS,SNS
+- 📊 DevOps Tools: GITHUB, JENKINS, DOCKER, KUBERNETES, ANSIBLE, TERRAFORM, SONARQUBE, NEXUS
+- 📚 Operating System: LINUX, UBUNTU, WINDOWS
+- 🗄️ Databases: MongoDB, MySQL
 """
 )
 
@@ -100,7 +93,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
+st.write("🚧", "**DevOps Engineer | Mindtree**")
 st.write("02/2020 - Present")
 st.write(
     """
@@ -112,7 +105,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
+st.write("🚧", "**Desktop Support | Mindtree**")
 st.write("01/2018 - 02/2022")
 st.write(
     """
@@ -124,7 +117,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**Data Analyst | Chegg**")
+st.write("🚧", "**CNC Operator | Gobal Technology**")
 st.write("04/2015 - 01/2018")
 st.write(
     """
