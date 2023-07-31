@@ -97,9 +97,26 @@ st.write("🚧", "**DevOps Engineer | Mindtree**")
 st.write("02/2020 - Present")
 st.write(
     """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
+LIFE INSURANCE CLIENT - MIRAE ASSET
+ROLES AND RESPONSIBILITIES
+-  Having experience in Cloud Infrastructure using Amazon Web Services (AWS). Leveraging various services such as EC2, S3, EFS, IAM, Load Balancer, Auto Scaling, VPC, Route 53, CloudFront, CloudWatch, and RDS. I have used EBS and EFS as per requirements to ensure efficient storage solutions.
+-  Worked on creating IAM user groups, and defining roles policies.
+-  Creating/Managing backup and recovery through AMI's for critical Ec2 instances and Snapshots.
+-  Collaborated with development, QA and IT operations staff to enhance software productivity.
+-  Significant experience on Git as a Version Control System focusing on code management through GitHub repositories.
+-  Furthermore, I have hands-on experience on robust CI/CD pipelines using Jenkins. Worked with DOCKER and KUBERNETES for deployment instrumental in transitioning from a monolithic architecture to a microservices architecture.
+-  I have demonstrated in utilizing Sona type Nexus repositories for efficient management of artifacts and dependencies.
+-  I possess strong skill in creating and managing the infrastructure using TERRAFORM and ANSIBLE.
+
+HEALTHCARE CLIENT - SeaSpine
+ROLES AND RESPONSIBILITIES
+-  Worked extensively on AWS services like Ec2, Elb, Auto Scaling, EBS, S3, Vpc, IAM, Cloudwatch.
+-  Managed and created users and group accounts with required roles and policy restrictions using IAM service.
+-  Installed and setup Web servers like Apache and Tomcat.
+-  Integrated and configured CI/CD through jenkins plug-in, created master-slave configuration for parallel builds.
+-  Worked on Docker containers for different environments.
+-  Well-versed in Linux administration duties, including installation and maintenance tasks. Overall, I bring extensive experience and knowledge in AWS cloud and DevOps tools.
+
 """
 )
 
@@ -109,9 +126,13 @@ st.write("🚧", "**Desktop Support | Mindtree**")
 st.write("01/2018 - 02/2022")
 st.write(
     """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful sales eﬀorts by 12%
-- ► Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of $300K
-- ► Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing
+-  Respond to user tickets related to hardware, software, and networking problems.
+-  Guide users through the installation process of applications and computer peripherals.
+-  Perform remote troubleshooting to address issues without physical access to the computer.
+-  Explore different solutions and pathways until a resolution is found.
+-  Customize desktop applications to align with the specific needs of users.
+-  Maintain a log of technical issues and their corresponding solutions for future reference.
+
 """
 )
 
@@ -121,9 +142,9 @@ st.write("🚧", "**CNC Operator | Gobal Technology**")
 st.write("04/2015 - 01/2018")
 st.write(
     """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
+-  Well versed in programming, setting-up and operating a CNC Machine.
+-  Set-up and manage CNC machines to perform different jobs including drilling and grinding.
+-  Translate engineering drawings and requirements into program for production.
 """
 )
 
